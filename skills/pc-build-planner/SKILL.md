@@ -1,4 +1,4 @@
---
+---
 name: "pc-build-planner"
 description: "Plan a custom desktop PC build and find where to buy each part, especially during sales like Black Friday: requirements, compatibility checks, UK price comparison and deal validation."
 ---
